@@ -1,5 +1,7 @@
-# matrices-java
+# EJERCICIOS MATRICES JAVA
+
 Todo tipo de ejercicios resueltos de matrices en JAVA
+
 ## PARTE 1: Matrices regulares
 
 .... en construcción
